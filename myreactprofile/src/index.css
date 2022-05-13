@@ -5,11 +5,11 @@ main {
 }
 :root {
   --primary: #8c54ff;
-  --secondary: #31343D;
+  --secondary: #6ca0db;
   --tertiary: #b12704;
-  --light: #fafafa;
+  --light: #f7f7f7;
   --dark: #799FBA;
-  --darker: #ddae56;
+  --darker: linear-gradient(to left bottom, rgb(88, 3, 3), rgba(209, 35, 35, 0.993), rgb(129, 24, 24));;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -53,7 +53,7 @@ h6 {
 h1 {
   outline: red 1px solid;
   font-size: 4rem;
-  margin: 50px;
+  margin: 40px;
   text-align: center;
 }
 
@@ -94,6 +94,7 @@ a:hover {
 }
 
 header {
+  outline: #b12704 solid 2px;
 }
 
 header a {
@@ -163,7 +164,7 @@ li {
 
 header {
   outline: red 1px solid;
-  height: 400px;
+  height: 300px;
   z-index: 1;
 }
 
@@ -177,7 +178,7 @@ header img {
   position: absolute;
   top: 0;
   left: 0;
-  height: 400px;
+  height: 300px;
   width: 100%;
 }
 
@@ -190,11 +191,12 @@ nav {
 
 nav a:hover {
   text-decoration: none;
+  color: #b12704;
 }
 
 nav li {
   cursor: pointer;
-  text-shadow: 2px 2px 10px rgba(0,0,0, 0.5);
+  text-shadow: 2px 2px 10px rgba(233, 11, 11, 0.5);
   margin: 0 50px;
   outline: red 1px solid;
 }
@@ -272,14 +274,19 @@ textarea {
 }
 
 .my-2 {
-  outline: #b12704 solid 1px;
+  margin-top: var(--spacing-two);
+  margin-bottom: var(--spacing-two);
 }
 
 .my-5 {
-  outline: #b12704 solid 1px;
-  height: 100px;
+  margin-top: var(--spacing-five);
+  margin-bottom: var(--spacing-five);
 }
 
+.px-1 {
+  padding-right: var(--spacing-one);
+  padding-left: var(--spacing-one);
+}
 
 .px-2 {
   padding-right: var(--spacing-two);
@@ -309,23 +316,25 @@ textarea {
   margin: 30px;
 }
 
-.project-bg {
-  position: relative;
-  width: 100%;
-  height: 100%;
+
+.project-img {
+  outline: #8c54ff solid 2px;
+  width: 500px;
+  height: 350px;
 }
 
+
 .project-text {
-    color: var(--secondary);
+    color: blue;
     position: absolute;
     top: 0px;
     bottom: 0px;
     left: 0px;
     right: 0px;
     padding: 50px;
-    z-index: 900;
     opacity: 0;
     transition: all .5s ease-in-out;
+
 }
 
 .project-text:hover {
