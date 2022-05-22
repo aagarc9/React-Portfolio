@@ -2,15 +2,14 @@ import React from 'react';
 
 function Footer() {
 
-  // Replace links with social media profiles
   const icons = [
     {
       name: "fab fa-github",
-      link: "https://github.com/"
+      link: "https://github.com/aagarc9"
     },
     {
       name: "fab fa-linkedin",
-      link: "https://www.linkedin.com/"
+      link: "https://www.linkedin.com/in/andrew-garcia-bba2016/"
     },
     {
       name: "fab fa-stack-overflow",

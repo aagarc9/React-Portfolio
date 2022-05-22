@@ -19,20 +19,20 @@ function Portfolio() {
     {
       name: 'weather-dashboard',
       description: 'HTML/CSS/JAVASCRIPT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://aagarc9.github.io/weather-dashboard/",
+      repo: "https://github.com/aagarc9/weather-dashboard"
     },
     {
       name: 'password-generator',
       description: 'Node/IoT',
       link: "https://github.com",
-      repo: "https://github.com"
+      repo: "https://github.com/aagarc9/ReadME-Generator"
     },
     {
       name: 'social-api',
       description: 'React/JavaScript/CSS',
       link: "https://github.com",
-      repo: "https://github.com"
+      repo: "https://github.com/aagarc9/social-network-API"
     },
   ]);
 
