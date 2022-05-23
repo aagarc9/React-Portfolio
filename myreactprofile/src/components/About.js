@@ -8,10 +8,10 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        Hello, My name is Andrew and I am a web developer. I am excited to share some of the projects and applications I've been developing. I am new to the tech industry but I have a lot of passion to learn new things and create new, dymatic website for clients and employers. I am always open to try new opportunties to improve my coding skills and working on various projects helps me understand new processes and tactics.
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        I've been working in the finance industry for many years and I would like to transition into FINTech companies as a web developer.
         </p>
       </div>
     </section>

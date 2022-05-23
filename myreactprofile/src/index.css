@@ -51,7 +51,6 @@ h6 {
 }
 
 h1 {
-  outline: red 1px solid;
   font-size: 4rem;
   margin: 40px;
   text-align: center;
@@ -93,9 +92,6 @@ a:hover {
   transition: all .2s ease-in-out;
 }
 
-header {
-  outline: #b12704 solid 2px;
-}
 
 header a {
   color: var(--light);
@@ -163,7 +159,7 @@ li {
 }
 
 header {
-  outline: red 1px solid;
+
   height: 300px;
   z-index: 1;
 }
@@ -198,7 +194,7 @@ nav li {
   cursor: pointer;
   text-shadow: 2px 2px 10px rgba(233, 11, 11, 0.5);
   margin: 0 50px;
-  outline: red 1px solid;
+  
 }
 
 
