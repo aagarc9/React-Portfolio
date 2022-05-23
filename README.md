@@ -9,7 +9,7 @@ How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-garcia-bba2016/) 
 
 ## Deployed
 
-http://localhost:3000/
+https://aagarc9.github.io/React-Portfolio/
 
 ## Tech Used
 ## Technology Used
