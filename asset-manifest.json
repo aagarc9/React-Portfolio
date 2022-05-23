@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.4217d346.css",
+    "main.js": "/React-Portfolio/static/js/main.9ded93a8.js",
+    "static/js/787.ef288a21.chunk.js": "/React-Portfolio/static/js/787.ef288a21.chunk.js",
+    "static/media/group-project-2.jpg": "/React-Portfolio/static/media/group-project-2.438604aaaf985a59289e.jpg",
+    "static/media/deve-code2.jpg": "/React-Portfolio/static/media/deve-code2.c28c770231fc7a396d11.jpg",
+    "static/media/food-for-thought.jpg": "/React-Portfolio/static/media/food-for-thought.a02a6f212aab43f1dd39.jpg",
+    "static/media/weather-dashboard.jpg": "/React-Portfolio/static/media/weather-dashboard.cdd6cacacf41312a69b8.jpg",
+    "static/media/password-generator.jpg": "/React-Portfolio/static/media/password-generator.5fafe569d12a51d927fc.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.4217d346.css.map": "/React-Portfolio/static/css/main.4217d346.css.map",
+    "main.9ded93a8.js.map": "/React-Portfolio/static/js/main.9ded93a8.js.map",
+    "787.ef288a21.chunk.js.map": "/React-Portfolio/static/js/787.ef288a21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4217d346.css",
+    "static/js/main.9ded93a8.js"
+  ]
+}
